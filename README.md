@@ -130,11 +130,3 @@ pip install pandas scikit-learn matplotlib
 4. Graph aur outputs ko samjho.
 
 ---
-
-## 🧠 Future Ideas
-
-- Advanced models try karo jaise XGBoost, SVR.
-- Hyperparameter tuning karo.
-- Feature selection techniques add karo.
-
----

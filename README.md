@@ -138,5 +138,3 @@ pip install pandas scikit-learn matplotlib
 - Feature selection techniques add karo.
 
 ---
-
-✨ **Developed with ❤️ using Python and Scikit-learn**
